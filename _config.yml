@@ -1,0 +1,2 @@
+baseurl: /DesignManifesto
+exclude: ['README.md']
